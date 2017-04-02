@@ -1,8 +1,6 @@
 
 public class College {
 	
-	private static final int MIN_GRADE = 2;
-	private static final int MAX_GRADE = 6;
 
 	public static void main(String[] args) {
 		
